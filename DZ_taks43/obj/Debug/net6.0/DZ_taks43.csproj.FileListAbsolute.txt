@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\obj\Debug\net6.0\DZ_taks43.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\obj\Debug\net6.0\DZ_taks43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\obj\Debug\net6.0\DZ_taks43.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\obj\Debug\net6.0\DZ_taks43.AssemblyInfo.cs
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\obj\Debug\net6.0\DZ_taks43.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\bin\Debug\net6.0\DZ_taks43.exe
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\bin\Debug\net6.0\DZ_taks43.deps.json
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\bin\Debug\net6.0\DZ_taks43.runtimeconfig.json
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\bin\Debug\net6.0\DZ_taks43.dll
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\bin\Debug\net6.0\DZ_taks43.pdb
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\obj\Debug\net6.0\DZ_taks43.dll
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\obj\Debug\net6.0\refint\DZ_taks43.dll
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\obj\Debug\net6.0\DZ_taks43.pdb
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\obj\Debug\net6.0\DZ_taks43.genruntimeconfig.cache
+C:\Users\Максим\Desktop\IT\c#\Seminar6\DZ_taks43\obj\Debug\net6.0\ref\DZ_taks43.dll
